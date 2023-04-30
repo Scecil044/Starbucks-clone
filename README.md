@@ -10,3 +10,5 @@
 
 - Find the guidelines to the project from **[Travesy media](https://www.youtube.com/watch?v=x_n2FGNsm0o)**
 - In the project i also integrated concepts from **[coding with dawind](https://www.youtube.com/watch?v=afaqr875gUE)**
+
+# Link to Project from netlify **[Check out](https://star1bucksclone.netlify.app/)**
